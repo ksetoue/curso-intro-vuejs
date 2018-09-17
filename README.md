@@ -856,3 +856,40 @@ export default {
       margin-bottom: 10px;
     }
   ```
+
+# Próximos passos: 
+- Criar rota para página do usuário 
+  Aqui, você precisa criar uma página para que o usuário possa acessar seu próprio perfil. Em seguida, ligar com a API existente para pegar os dados dos usuários. 
+  Dica: A princípio, utilize informações estáticas para criar o componente. 
+
+- Tornar o app completamente responsivo
+
+## Outros links interessantes:
+Abaixo você encontra alguns links interessantes sobre Vue e alguns recursos adicionais.
+
+### Comparações
+
+* [Comparação entre Vue e outros frameworks](https://vuejs.org/v2/guide/comparison.html)
+
+* [Um artigo bem interessante sobre o processo de escolha entre usar Vue e React](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
+
+### Bibliotecas e Ferramentas
+
+* [Uma lib bem legal com vários componentes que podem facilitar a sua vida](https://element.eleme.io/#/en-US/component/installation)
+
+* [Vuex - para guardar e alterar estados em aplicações complexas](https://vuex.vuejs.org/)
+
+* [Para debugar aplicações de um jeito mais simples](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=pt-BR)
+
+* [vue-cli](https://cli.vuejs.org/guide/installation.html)
+
+### Cursos
+
+* [Curso completo sobre Vue.js](https://www.udemy.com/vuejs-2-the-complete-guide/)
+
+* [Bootstrap para Vue]()
+### Outros links
+
+* [CSS Tricks](https://css-tricks.com/)
+* [httpstatuses](https://httpstatuses.com/)
+* [gitignore.io](gitignore.io)
